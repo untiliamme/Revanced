@@ -28,6 +28,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.a
 enable-update-checks = true
 
 [Reddit-Morphe]
+enabled = false
 app-name = "Reddit"
 rv-brand = "Morphe"
 build-mode = "both"
@@ -38,6 +39,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage
 dpi = "120-640dpi"
 
 [GooglePhotos]
+enabled = false
 build-mode = "both"
 patches-source = "RookieEnough/De-Vanced"
 rv-brand = "DeVanced"
@@ -71,3 +73,12 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 [Twitch]
 enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
+
+[Instagram]
+patches-source = "crimera/piko"
+cli-source = "MorpheApp/morphe-cli"
+rv-brand = "Piko"
+build-mode = "apk"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
+version = "latest"
+enable-update-checks = true
