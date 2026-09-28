@@ -14,7 +14,7 @@ rv-brand = "Morphe"
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-enable-update-checks = true
+enable-update-checks = false
 
 [Music-Morphe]
 app-name = "Music"
@@ -25,7 +25,7 @@ build-mode = "both"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-enable-update-checks = true
+enable-update-checks = false
 
 [Reddit-Morphe]
 enabled = false
@@ -55,7 +55,7 @@ rv-brand = "Piko"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 version = "latest"
 included-patches = "'NewX: Restore Twitter branding'"
-enable-update-checks = true
+enable-update-checks = false
 
 [Music]
 enabled = false
@@ -80,12 +80,12 @@ cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Piko"
 build-mode = "apk"
 direct-dlurl = "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=16149849&key=cd62f11d3f9f146e8500ef0a387a9db369538d18"
-enable-update-checks = true
+enable-update-checks = false
 
 [Facebook]
 patches-source = "SysAdminDoc/HushFacebook"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "HushFacebook"
 build-mode = "apk"
-direct-dlurl = "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=16201423&key=0136721598a27533fcce8734c00fcc2c3d48c978"
-enable-update-checks = true
+apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
+enable-update-checks = false
