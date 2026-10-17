@@ -5,14 +5,14 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-Patches: crimera/piko-newx/patches-3.57.0.mpp  
-[Changelog](https://github.com/crimera/piko-newx/releases/tag/v3.57.0)
+Patches: crimera/piko-newx/patches-3.57.1.mpp  
+[Changelog](https://github.com/crimera/piko-newx/releases/tag/v3.57.1)
 
-Patches: SysAdminDoc/HushFacebook/patches-0.13.0.mpp  
-[Changelog](https://github.com/SysAdminDoc/HushFacebook/releases/tag/v0.13.0)
+Patches: SysAdminDoc/HushFacebook/patches-0.14.0.mpp  
+[Changelog](https://github.com/SysAdminDoc/HushFacebook/releases/tag/v0.14.0)
 
 CLI: MorpheApp/morphe-cli/morphe-desktop-1.18.1-all.jar    
 
 Skipped:  
 Patches: crimera/piko/patches-3.10.0.mpp  
-Patches: MorpheApp/morphe-patches/patches-1.47.0.mpp      
+Patches: MorpheApp/morphe-patches/patches-1.47.0.mpp        
