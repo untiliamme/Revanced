@@ -1,6 +1,6 @@
 {
-  "version": "v9.20.53 (patches 1.47.0.mpp)",
-  "versionCode": 14,
-  "zipUrl": "https://github.com/untiliamme/Revanced/releases/download/14/music-morphe-module-v9.20.53-arm-v7a.zip",
+  "version": "v9.20.53 (patches 1.48.0.mpp)",
+  "versionCode": 19,
+  "zipUrl": "https://github.com/untiliamme/Revanced/releases/download/19/music-morphe-module-v9.20.53-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/untiliamme/Revanced/update/build.md"
 }
